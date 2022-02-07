@@ -1,1 +1,1 @@
-print("hello world")
+print("happy new year 2022!")
