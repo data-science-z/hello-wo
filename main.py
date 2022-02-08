@@ -5,3 +5,4 @@ print("police")
 print("bingdundun")
 
 print("test")
+print("rename")
