@@ -8,3 +8,5 @@ print("test")
 print("rename")
 print("outdoors")
 print("why")
+
+print("1")
